@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MANOJKUMARSAHU12/performance-testing/static/css/main.f855e6bc.css",
+    "main.js": "/MANOJKUMARSAHU12/performance-testing/static/js/main.030ac372.js",
+    "static/js/787.50334c28.chunk.js": "/MANOJKUMARSAHU12/performance-testing/static/js/787.50334c28.chunk.js",
+    "static/media/logo.svg": "/MANOJKUMARSAHU12/performance-testing/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/MANOJKUMARSAHU12/performance-testing/index.html",
+    "main.f855e6bc.css.map": "/MANOJKUMARSAHU12/performance-testing/static/css/main.f855e6bc.css.map",
+    "main.030ac372.js.map": "/MANOJKUMARSAHU12/performance-testing/static/js/main.030ac372.js.map",
+    "787.50334c28.chunk.js.map": "/MANOJKUMARSAHU12/performance-testing/static/js/787.50334c28.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.030ac372.js"
+  ]
+}
